@@ -1,4 +1,5 @@
-# Hi there 👋 I'm SERGEI STOROZHUK. Python Developer.
+# Hi there 👋
+# I'm SERGEI STOROZHUK. Python Developer.
 ### Experience of working on projects using Django, Rest, PostgreSQL, API, Nginx, Docker, JS, jQuery, ajax. Understanding of the organization process CI/CD by GitHUB Actions. Proficiency in Git, virtual environment, Unittest. English - intermediate. Ukrainian, Russian – fluent.
 
 ### I can, I know: Python, OOP, SQL, JSON, Algorithms, data structures, Yandex Cloud, UNIX/WSL - basic skills, VSC, linters, Git, Github, pytest, venv, bash
