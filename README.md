@@ -10,6 +10,7 @@
 ![jQuery](/svg/jquery-4.svg)
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
+![Docker](/svg/docker.png)
 ![Git](/svg/git.svg)
 
 ## Контакты
