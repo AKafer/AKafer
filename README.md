@@ -10,6 +10,11 @@
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
 
+## Контакты
+[<img src="./svg/telegram.svg">](https://t.me/AKafer82)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:akafer82@gmail.com)
+[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/sergey-storozhuk-2a128b244/)
+
 <!--
 **AKafer/AKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
