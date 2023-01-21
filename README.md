@@ -6,6 +6,7 @@
 ### Technology stack: 
 ![Python](/svg/python.svg)
 ![Django](/svg/django.svg)
+![JS](/svg/javascript.svg)
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
