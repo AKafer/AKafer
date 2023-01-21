@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋 I'm SERGEI STOROZHUK. Python Developer.
+### Experience of working on projects using Django, Rest, PostgreSQL, API, Nginx, Docker, JS, jQuery, ajax. Understanding of the organization process CI/CD by GitHUB Actions. Proficiency in Git, virtual environment, Unittest. English - intermediate. Ukrainian, Russian – fluent.
+
+### I can, I know: Python, OOP, SQL, JSON, Algorithms, data structures, Yandex Cloud, UNIX/WSL - basic skills, VSC, linters, Git, Github, pytest, venv, bash
+
+### Technology stack: Django, Django ORM, Django Rest Framework, JS, jQuery, AOuth 2.0, JWT+Djoiser, Telegram API, REST API, unit test, DB: SQLite, Postgresql, JS, jQuery, ajax, Docker, CI / CD - know the basics, worked with them, NGINX, Gunicorn, WSL, WSGI
+
+
+Основной стек технологий
+Python Django HTML CSS Git
 
 <!--
 **AKafer/AKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
