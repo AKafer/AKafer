@@ -3,11 +3,12 @@
 
 ### I can, I know: Python, OOP, SQL, JSON, Algorithms, data structures, Yandex Cloud, UNIX/WSL - basic skills, VSC, linters, Git, Github, pytest, venv, bash
 
-### Technology stack: Django, Django ORM, Django Rest Framework, JS, jQuery, AOuth 2.0, JWT+Djoiser, Telegram API, REST API, unit test, DB: SQLite, Postgresql, JS, jQuery, ajax, Docker, CI / CD - know the basics, worked with them, NGINX, Gunicorn, WSL, WSGI
-
-
-Основной стек технологий
-Python Django HTML CSS Git
+### Technology stack: 
+![Python](/svg/python.svg)
+![Django](/svg/django.svg)
+![HTML](/svg/html-5.svg)
+![CSS](/svg/css3.svg)
+![Git](/svg/git.svg)
 
 <!--
 **AKafer/AKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
