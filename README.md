@@ -15,6 +15,15 @@
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:akafer82@gmail.com)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/sergey-storozhuk-2a128b244/)
 
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" />
+</a>
+</div>
+
 <!--
 **AKafer/AKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
