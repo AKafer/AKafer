@@ -36,11 +36,11 @@
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/sergey-storozhuk-2a128b244/)
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats" height="130" style="margin-right:10px">
+  <a href="https://github-readme-stats-eight-theta.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats" height="130" style="margin-right:10px">
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" alt="Top Languages" height="130">
+  <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" alt="Top Languages" height="130">
   </a>
 </div>
 
