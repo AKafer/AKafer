@@ -7,14 +7,15 @@
 ### Technology stack: 
 ![Python](/svg/python.svg)
 ![Django](/svg/django.svg)
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="80">
 ![JS](/svg/javascript1.svg)
 ![jQuery](/svg/jquery-4.svg)
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Docker](/svg/docker.png)
-![Kubernetes]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40">
-![Helm]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" height="40">
-![Jenkins]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="Jenkins" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" height="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="Jenkins" height="80">
 ![Git](/svg/git.svg)
 
 ## Контакты
