@@ -12,7 +12,9 @@
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Docker](/svg/docker.png)
-![Kubernetis](
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)
+![Helm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg)
+![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg)
 ![Git](/svg/git.svg)
 
 ## Контакты
@@ -20,13 +22,13 @@
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:akafer82@gmail.com)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/sergey-storozhuk-2a128b244/)
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
-  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
+    <img align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark">
+    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
 </div>
 
 <!--
