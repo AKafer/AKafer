@@ -8,12 +8,14 @@
 ![Python](/svg/python.svg)
 ![Django](/svg/django.svg)
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="80">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="80">
 <br>
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![JS](/svg/javascript1.svg)
 ![jQuery](/svg/jquery-4.svg)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="80">
 <br>
 ![Docker](/svg/docker.png)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="80">
