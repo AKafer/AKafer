@@ -8,17 +8,20 @@
 ![Python](/svg/python.svg)
 ![Django](/svg/django.svg)
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="80">
-![JS](/svg/javascript1.svg)
-![jQuery](/svg/jquery-4.svg)
+<br>
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
+![JS](/svg/javascript1.svg)
+![jQuery](/svg/jquery-4.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40">
+<br>
 ![Docker](/svg/docker.png)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" height="80">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="Jenkins" height="80">
 ![Git](/svg/git.svg)
 
-## Контакты
+### Контакты
 [<img src="./svg/telegram.svg">](https://t.me/AKafer82)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:akafer82@gmail.com)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/sergey-storozhuk-2a128b244/)
