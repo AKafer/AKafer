@@ -12,9 +12,9 @@
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Docker](/svg/docker.png)
-![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)
-![Helm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg)
-![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg)
+![Kubernetes]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="40">
+![Helm]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" height="40">
+![Jenkins]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="Jenkins" height="40">
 ![Git](/svg/git.svg)
 
 ## Контакты
@@ -24,10 +24,10 @@
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
-    <img align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats" height="130" style="margin-right:10px">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark">
-    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" alt="Top Languages" height="130">
   </a>
 </div>
 
