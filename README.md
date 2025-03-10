@@ -2,7 +2,7 @@
 # I'm SERGEI STOROZHUK. Python Developer.
 ### Experience of working on projects using Django, FastApi, PostgreSQL, RabbitMQ, Redis, Nginx, HTML, CSS, JS, jQuery, React, Bootstrap, Docker, Kubernetes, Helm, Jenkins, Terraform. Proficiency in Git, virtual environment, Unittest. English - intermediate. Ukrainian, Russian – fluent. Lithuanian - A2.
 
-### I can, I know: Python, OOP, SQL, JSON, Algorithms, data structures, Yandex Cloud, UNIX/WSL - basic skills, VSC, linters, Git, Github, pytest, venv, bash
+### I know how to complete projects to the end, format the code according to PEP and write comments, independently look for a solution to the problem and not be afraid of difficulties, take responsibility for the work on the project, ask questions and receive feedback.
 
 ### Technology stack:
  
