@@ -30,11 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="100">
 </div>
 
-### Контакты
-[<img src="./svg/telegram.svg">](https://t.me/AKafer82)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:akafer82@gmail.com)
-[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/sergey-storozhuk-2a128b244/)
-
 <div align="center">
   <a href="https://github-readme-stats-eight-theta.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark" alt="GitHub Stats" height="130" style="margin-right:10px">
@@ -43,6 +38,11 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" alt="Top Languages" height="130">
   </a>
 </div>
+
+### Контакты
+[<img src="./svg/telegram.svg">](https://t.me/AKafer82)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:akafer82@gmail.com)
+[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/sergey-storozhuk-2a128b244/)
 
 <!--
 **AKafer/AKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
