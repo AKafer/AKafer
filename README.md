@@ -5,11 +5,6 @@
 ### I can, I know: Python, OOP, SQL, JSON, Algorithms, data structures, Yandex Cloud, UNIX/WSL - basic skills, VSC, linters, Git, Github, pytest, venv, bash
 
 ### Technology stack:
-<div style="display: flex; gap: 40px; !important; background: #eee;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="100" style="margin-right: 50px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="100" style="margin-right: 50px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="100" style="margin-left: 100px;">
-</div>
  
 <div style="display: flex; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="100">
@@ -17,9 +12,6 @@
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="120">
-</div>
-<br>
-<div style="display: flex; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="jQuery" height="100" style="margin-right: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="100" style="margin-right: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="100" style="margin-right: 30px;">
