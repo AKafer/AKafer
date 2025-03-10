@@ -5,11 +5,11 @@
 ### I can, I know: Python, OOP, SQL, JSON, Algorithms, data structures, Yandex Cloud, UNIX/WSL - basic skills, VSC, linters, Git, Github, pytest, venv, bash
 
 ### Technology stack: 
-![Python](/svg/python.svg)
+![Python](/svg/python.svg)  
 ![Django](/svg/django.svg)
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="80">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="120">
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="100" style="margin-right: 10px;>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="80" style="margin-right: 10px;>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="120" style="margin-right: 10px;>
 <br>
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
